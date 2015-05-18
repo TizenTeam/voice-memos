@@ -6,6 +6,8 @@ A sample web app that lets you record voice memos. It uses ES6 classes (via Babe
 
 [See the site here](https://voice-memos.appspot.com/)
 
+More info here: https://aerotwist.com/blog/voice-memos/
+
 ## License
 
 Copyright 2015 Google, Inc.
